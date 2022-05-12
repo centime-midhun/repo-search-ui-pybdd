@@ -17,7 +17,6 @@ As this is a Python project, build and dependency management is handled by Pipen
 * Selenium v4.1.5
 * Pytest v7.1.2
 * Pytest BDD v5.0.0
-* Sstable v0.0.1
 * Webdriver-Manager v3.5.4
 * Pytest-html v3.1.1
 
